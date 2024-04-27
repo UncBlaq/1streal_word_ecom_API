@@ -1,0 +1,11 @@
+=> class config orm mode(2:10), response_model in documentation
+=> Optimize if name, user and matching passwords later
+=> Removed depracated(2:26)
+=> Stopped 2:30
+=> code crasehes if owner id in server is not available in the database(2:44)
+
+=> Stopped at 3:28
+=> using token.py crashes code.. why?
+=> python-multipart
+=> 3:46(data instead of token), 
+=> Stopped 3:50
